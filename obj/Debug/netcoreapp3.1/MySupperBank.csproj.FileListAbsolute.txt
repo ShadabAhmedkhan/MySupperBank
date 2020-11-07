@@ -1,0 +1,13 @@
+C:\Users\angular\source\repos\MySupperBank\bin\Debug\netcoreapp3.1\MySupperBank.exe
+C:\Users\angular\source\repos\MySupperBank\bin\Debug\netcoreapp3.1\MySupperBank.deps.json
+C:\Users\angular\source\repos\MySupperBank\bin\Debug\netcoreapp3.1\MySupperBank.runtimeconfig.json
+C:\Users\angular\source\repos\MySupperBank\bin\Debug\netcoreapp3.1\MySupperBank.runtimeconfig.dev.json
+C:\Users\angular\source\repos\MySupperBank\bin\Debug\netcoreapp3.1\MySupperBank.dll
+C:\Users\angular\source\repos\MySupperBank\bin\Debug\netcoreapp3.1\MySupperBank.pdb
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.csprojAssemblyReference.cache
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.AssemblyInfoInputs.cache
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.AssemblyInfo.cs
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.csproj.CoreCompileInputs.cache
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.dll
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.pdb
+C:\Users\angular\source\repos\MySupperBank\obj\Debug\netcoreapp3.1\MySupperBank.genruntimeconfig.cache
